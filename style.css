@@ -1,0 +1,14 @@
+body {
+  background: #A8DCD1;
+  margin: 5%
+}
+
+p {
+  color: #373638;
+}
+
+nav li {
+  display: inline-block;
+  padding: 1%;
+  float: right
+}
